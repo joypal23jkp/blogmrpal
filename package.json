@@ -15,7 +15,7 @@
     "youch": "^3.1.0",
     "youch-terminal": "^2.1.2"
   },
-  "dependencies": {
+  "dependencies": {v  
     "@adonisjs/core": "^5.4.2",
     "@adonisjs/repl": "^3.1.8",
     "proxy-addr": "^2.0.7",
@@ -24,5 +24,5 @@
   },
   "engines": {
     "node": "14.x"
-  },
+  }
 }
